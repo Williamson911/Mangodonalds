@@ -1,0 +1,10 @@
+{
+  "name": "Mangodonalds",
+  "version": "1.0.0",
+  "description": "A fast food order app",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Will",
+  "license": "ISC"
+}
